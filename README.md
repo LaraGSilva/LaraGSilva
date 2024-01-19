@@ -12,7 +12,8 @@ Desenvolvimento backend e scripts para dados:
 
 
 Database
-<img loading ='lazy' img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"  width="40" height="40"/>
+
+<img loading ='lazy' img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"  width="100" height="100"/>
           
 
 
