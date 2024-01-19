@@ -1,16 +1,16 @@
-### Hi there 👋
+# 👋 Oie, eu sou a Lara!
 
-<!--
-**LaraGSilva/LaraGSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tenho 20 anos e sou uma apaixonada por código, dados e café. Atualmente, estudo Sistemas de Informação na FIAP, focando meu backend skills em Python, AWS e Machine Learning
 
-Here are some ideas to get you started:
+## 🚀 O que você encontra no meu Github
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Projetos de Data Science;
+- 🚀 Projetos Backend Python;
+- 🧠 Desafios e trabalhos de faculdade;
+
+
+## 💗 Tecnologias Favoritas
+
+Python e Java 
+
+Se você estiver interessado em trocar ideias, colaborar em alguma iniciativa ou apenas compartilhar uma perspectiva diferente, estou totalmente aberta a novas conexões no vasto universo da programação! 🚀✨
