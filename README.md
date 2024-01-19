@@ -8,6 +8,13 @@ Tenho 20 anos e sou uma apaixonada por código, dados e café. Atualmente, estud
 - 🚀 Projetos Backend Python;
 - 🧠 Desafios e trabalhos de faculdade;
 
+Desenvolvimento backend e scripts para dados:
+
+
+Database
+<img loading ='lazy' img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"  width="40" height="40"/>
+          
+
 
 ## 💗 Tecnologias Favoritas
 
