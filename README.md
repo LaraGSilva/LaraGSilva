@@ -9,15 +9,20 @@ Tenho 20 anos e sou uma apaixonada por código, dados e café. Atualmente, estud
 - Desafios e trabalhos de faculdade;
 
 🧠 Desenvolvimento backend e scripts para dados
-<img loading ='lazy' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="100" height="100"/>  <img loading ='lazy' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="100" height="100"/>
+
+<img loading ='lazy' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="100" height="100"/>  
+<img loading ='lazy' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="100" height="100"/>
           
           
 🚀Database
+
 <img loading ='lazy' img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"  width="100" height="100"/>
 
 
 💻 DevOps
-<img loading ='lazy' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="100" height="100"/> <img loading ='lazy' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" width="100" height="100"/>
+
+<img loading ='lazy' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="100" height="100"/> 
+<img loading ='lazy' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" width="100" height="100"/>
           
           
 
