@@ -5,8 +5,10 @@ Tenho 20 anos e sou uma apaixonada por código, dados e café. Atualmente, estud
 ## 👩‍💻 O que você encontra no meu Github
 
 - Projetos de Data Science;
-- Projetos Backend Python;
-- Desafios e trabalhos de faculdade;
+- Projetos Backend Python e Java;
+- Desafios de lógica;
+- Análises de dados;
+  
 
 ## Dados          
 <img loading ='lazy' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="90" height="80"/><img loading ='lazy' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="110" height="80"/><img loading ='lazy' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="110" height="80"/>
