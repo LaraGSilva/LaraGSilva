@@ -29,8 +29,16 @@ I am 20 years old and passionate about code, data, and coffee. Currently, I am s
 ##  FrameWorks
 <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" width="110">
 
-<div>
+## Statics
+<div align="center">
 <a href="https://github.com/LaraGSilva">
-<img loading="lazy" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaraGSilva&layout=compact&langs_count=7&theme=dracula"/><img loading="lazy" height="160em" src="https://github-readme-stats.vercel.app/api?username=LaraGSilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaraGSilva&layout=compact&langs_count=7&theme=dracula"/><img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=LaraGSilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+  
+## Let's reach out ✨
+<div align="center">
+Thank you for visiting my profile!
+Feel free to reach out, it would be a pleasure to exchange ideas, share knowledge, or just have a casual chat. I'm here for any questions or conversations you'd like to share. Let's make this interaction even more engaging!
+<img src="https://github.com/LaraGSilva/LaraGSilva/assets/66211552/5fef0cae-5ca2-4111-b6f9-76e4151f38fc" position= center width="220" heigth="220"/>
 </div>
 
