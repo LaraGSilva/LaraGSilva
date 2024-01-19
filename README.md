@@ -1,27 +1,36 @@
-# 👋 Oie, eu sou a Lara!
+# 🙋🏻‍♀️ Hi, I'm Lara!
 
-Tenho 20 anos e sou uma apaixonada por códigos, dados e café. Atualmente, estudo Sistemas de Informação na FIAP, focando meu backend skills em Python, AWS e Machine Learning 🤍
+I am 20 years old and passionate about code, data, and coffee. Currently, I am studying Information Systems at FIAP, focusing my backend skills on Python, AWS, and Machine Learning.I enjoy tackling logic challenges and working on innovative data science projects. Feel free to explore my GitHub for a glimpse into my coding journey 🤍
 
-## 👩‍💻 O que você encontra no meu Github
+## ✨ Here you can find ✨
 
-- Projetos de Data Science;
-- Projetos Backend Python e Java;
-- Desafios de lógica;
-- Análises de dados;
+- Data Science projects;
+- Python and Java Backend projects;
+- Logic challenges;
+- Data analysis;
+- SQL scripts;
   
 
-## Dados          
-<img loading ='lazy' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="90" height="80"/><img loading ='lazy' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="110" height="80"/><img loading ='lazy' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="110" height="80"/>
-<img loading ='lazy' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original-wordmark.svg" width="110" height="80"/>
-##  Desenvolvimento backend 
-<img loading ='lazy' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="90" height="90"/><img loading ='lazy' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="90" height="90"/>        
+## Data       
+<img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"> <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"> <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"> <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white"> 
+<img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black"/> <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white"/>
+<img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white">
+
+## Backend
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>        
+
 ## Database
-<img loading ='lazy' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="90" height="90"/><img loading ='lazy' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="110" height="90"/>         
-## DevOps
-<img loading ='lazy' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="90" height="90"/> <img loading ='lazy' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" width="100" height="90"/>
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/> <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
+
+##  DevOps
+<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/> <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
+
+##  FrameWorks
+<img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" width="110">
 
 <div>
 <a href="https://github.com/LaraGSilva">
-<img loading="lazy" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaraGSilva&layout=compact&langs_count=7&theme=dracula"/><img loading="lazy" height="140em" src="https://github-readme-stats.vercel.app/api?username=LaraGSilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaraGSilva&layout=compact&langs_count=7&theme=dracula"/><img loading="lazy" height="160em" src="https://github-readme-stats.vercel.app/api?username=LaraGSilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
