@@ -1,6 +1,6 @@
 # 👋 Oie, eu sou a Lara!
 
-Tenho 20 anos e sou uma apaixonada por código, dados e café. Atualmente, estudo Sistemas de Informação na FIAP, focando meu backend skills em Python, AWS e Machine Learning 🤍
+Tenho 20 anos e sou uma apaixonada por códigos, dados e café. Atualmente, estudo Sistemas de Informação na FIAP, focando meu backend skills em Python, AWS e Machine Learning 🤍
 
 ## 👩‍💻 O que você encontra no meu Github
 
