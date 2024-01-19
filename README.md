@@ -16,14 +16,10 @@ Tenho 20 anos e sou uma apaixonada por código, dados e café. Atualmente, estud
 ## Database
 <img loading ='lazy' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="90" height="90"/><img loading ='lazy' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="110" height="90"/>         
 ## DevOps
-<img loading ='lazy' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="90" height="100"/> <img loading ='lazy' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" width="100" height="90"/>
+<img loading ='lazy' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="90" height="90"/> <img loading ='lazy' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" width="100" height="90"/>
 
 <div>
 <a href="https://github.com/LaraGSilva">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaraGSilva&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=LaraGSilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaraGSilva&layout=compact&langs_count=7&theme=dracula"/><img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=LaraGSilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-  
-#### Se você estiver interessado em trocar ideias, colaborar em alguma iniciativa ou apenas compartilhar uma perspectiva diferente, estou totalmente aberta a novas conexões no vasto universo da programação! 📊✨
