@@ -29,7 +29,7 @@ I am 20 years old and passionate about code, data, and coffee. Currently, I am s
 ##  FrameWorks
 <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" width="110"> <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" width="120"/> <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"/>
 
-## Statics
+## Statistics
 <div align="center">
 <a href="https://github.com/LaraGSilva">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaraGSilva&layout=compact&langs_count=7&theme=dracula"/><img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=LaraGSilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -37,8 +37,11 @@ I am 20 years old and passionate about code, data, and coffee. Currently, I am s
   
 ## Let's reach out ✨
 <div align="center">
-Thank you for visiting my profile!
-Feel free to reach out, it would be a pleasure to exchange ideas, share knowledge, or just have a casual chat. I'm here for any questions or conversations you'd like to share. Let's make this interaction even more engaging!
-<img src="https://github.com/LaraGSilva/LaraGSilva/assets/66211552/5fef0cae-5ca2-4111-b6f9-76e4151f38fc" position= center width="220" heigth="220"/>
+  <p>
+    "Thank you for visiting my profile!
+    Feel free to reach out, it would be a pleasure to exchange ideas, share knowledge, or just have a casual chat. I'm here for any questions or conversations you'd like to share. 
+    Let's make this interaction even more engaging!"
+  </p>
+<img src="https://github.com/LaraGSilva/LaraGSilva/assets/66211552/5fef0cae-5ca2-4111-b6f9-76e4151f38fc" position="center" width="200" heigth="200"/>
 </div>
 
