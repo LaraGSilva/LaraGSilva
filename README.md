@@ -1,6 +1,13 @@
 # 🙋🏻‍♀️ Hello, I'm Lara!
 
-I am 20 years old and passionate about code, data, and coffee. Currently, I am studying Information Systems at FIAP, focusing my backend skills on Python, AWS, and Machine Learning.I enjoy challenges and working on innovative data science projects. Feel free to explore my GitHub 🤍
+<div align="center">
+   <p>
+    I am 20 years old and passionate about code, data, and coffee.
+    Currently, I am studying Information Systems at FIAP, focusing my backend skills on Python, AWS, and Machine Learning.
+    I enjoy challenges and working on innovative data science projects. 
+     Feel free to explore my GitHub 🤍
+   </p>
+</div>
 
 ## ✨ Here you can find ✨
 
