@@ -45,9 +45,10 @@
 ## Let's reach out ✨
 <div align="center">
   <p>
-    "Thank you for visiting my profile!
-    Feel free to reach out, it would be a pleasure to exchange ideas, share knowledge, or just have a casual chat. I'm here for any questions or conversations you'd like to share. 
-    Let's make this interaction even more engaging!"
+    Thank you for visiting my profile!
+    Feel free to reach out, it would be a pleasure to exchange ideas, share knowledge, or just have a casual chat. 
+     I'm here for any questions or conversations you'd like to share. 
+    Let's make this interaction even more engaging!
   </p>
 <img src="https://github.com/LaraGSilva/LaraGSilva/assets/66211552/5fef0cae-5ca2-4111-b6f9-76e4151f38fc" position="center" width="200" heigth="200"/>
 </div>
