@@ -1,15 +1,15 @@
 # 🙋🏻‍♀️ Hello, I'm Lara!
 
-<div align="center">
+<div align="left">
    <p>
     I am 20 years old and passionate about code, data, and coffee.
     Currently, I am studying Information Systems at FIAP, focusing my backend skills on Python, AWS, and Machine Learning.
     I enjoy challenges and working on innovative data science projects. 
-     Feel free to explore my GitHub 🤍
+     Feel free to explore my GitHub!
    </p>
 </div>
 
-## ✨ Here you can find ✨
+## ✨ Here you can find 
 
 - Data Science projects;
 - Python and Java Backend projects;
@@ -42,14 +42,16 @@
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaraGSilva&layout=compact&langs_count=7&theme=dracula"/><img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=LaraGSilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
   
-## Let's reach out ✨
+## ✨Let's reach out 
 <div align="center">
   <p>
     Thank you for visiting my profile!
-    Feel free to reach out, it would be a pleasure to exchange ideas, share knowledge, or just have a casual chat. 
-     I'm here for any questions or conversations you'd like to share. 
-    Let's make this interaction even more engaging!
+    Feel free to reach out, it would be a pleasure to exchange ideas, share knowledge, or just have a casual chat.
+     <br/>
+      <strong>Email: Laragonsilva26122003@gmail.com<strong>
   </p>
-<img src="https://github.com/LaraGSilva/LaraGSilva/assets/66211552/5fef0cae-5ca2-4111-b6f9-76e4151f38fc" position="center" width="200" heigth="200"/>
+      </div >
+<div align="center">
+   <img src="https://github.com/LaraGSilva/LaraGSilva/assets/66211552/5fef0cae-5ca2-4111-b6f9-76e4151f38fc" position="center" width="20%" heigth="80"/>
 </div>
 
