@@ -23,6 +23,10 @@
 ##  FrameWorks
 <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" width="110"> <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" width="120"/> <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"/><p></p>
 
+## Contacts
+<a href="https://www.linkedin.com/in/lara-gonçalves-da-silva-ab5b6a206/" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+<a href="Laragonsilva26122003@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  align="center" style="border-radius: 30px" target="_blank">
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LaraGSilva&bg_color=0D1117&color=6E34D5&point=ffffff&title=&hide_border=true)](https://github.com/LaraGSilva/github-readme-activity-graph)
 
 <div align="center"> 
@@ -32,11 +36,6 @@
 <p></p>
 </div>
 
-<div align="center">  
-<p></p>
-<a href="https://www.linkedin.com/in/lara-gonçalves-da-silva-ab5b6a206/" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
-<a href="Laragonsilva26122003@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  align="center" style="border-radius: 30px" target="_blank">
-</div>
  
 <img width=100% src="https://github.com/LaraGSilva/LaraGSilva/assets/66211552/4cae6979-23fe-4a2a-96ff-f7c974b7ca22">       
 
