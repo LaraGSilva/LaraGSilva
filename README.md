@@ -28,13 +28,14 @@
 
 <div align="center"> 
  <a href="https://github.com/LaraGSilva"> 
-<img loading="lazy" width=42% height="180em" src="https://github-readme-stats.vercel.app/api?username=LaraGSilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
- <img loading="lazy"  width=42% height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaraGSilva&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" width=55% height="180em" src="https://github-readme-stats.vercel.app/api?username=LaraGSilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+ <img loading="lazy"  width=30% height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaraGSilva&layout=compact&langs_count=7&theme=dracula"/>
 <p></p>
 </div>
 
 <div align="center">  
 <p></p>
+<h2>Contacts</h2>
 <a href="https://www.linkedin.com/in/lara-gonçalves-da-silva-ab5b6a206/" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
 <a href="Laragonsilva26122003@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  align="center" style="border-radius: 30px" target="_blank">
 </div>
