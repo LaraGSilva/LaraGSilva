@@ -1,8 +1,7 @@
 
-<div align="center">
-<img src="https://github.com/LaraGSilva/LaraGSilva/assets/66211552/c8733139-4a67-4562-8a76-a98578b0263c">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A531F7&center=true&vCenter=true&random=true&width=435&lines=Hello+World%2C+I'm+Lara+Gon%C3%A7alves;Welcome+to+my+profile+%3A)" alt="Typing SVG"  /></a>
-        
+
+<img width=100% src="https://github.com/LaraGSilva/LaraGSilva/assets/66211552/c8733139-4a67-4562-8a76-a98578b0263c">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7844F7&center=true&random=false&width=1000&lines=Hello+World%2C+I'm+Lara+Gon%C3%A7alves;Welcome+to+my+profile" alt="Typing SVG" /></a>
 
 ## Data       
 <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"> <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"> <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"> <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white"> 
@@ -27,7 +26,7 @@
 <a href="https://github.com/LaraGSilva">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaraGSilva&layout=compact&langs_count=7&theme=dracula"/><img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=LaraGSilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
    
-</div>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact)](https://github.com/USERNAME/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact)](https://github.com/USERNAME/github-readme-stats)
  
-![Snake animation](https://github.com/USERNAME/USERNAME/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/LaraGSilva/LaraGSilva/blob/output/github-contribution-grid-snake.svg)
