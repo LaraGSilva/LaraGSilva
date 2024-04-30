@@ -1,7 +1,7 @@
 
 
 <img width=100% src="https://github.com/LaraGSilva/LaraGSilva/assets/66211552/c8733139-4a67-4562-8a76-a98578b0263c">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7844F7&center=true&random=false&width=1000&lines=Hello+World%2C+I'm+Lara+Gon%C3%A7alves;Welcome+to+my+profile" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4500&pause=50&color=9933F7&background=4EFFA400&center=true&random=false&width=1000&lines=Hello+World%2C+I'm+Lara+Gon%C3%A7alves+;Welcome+to+my+profile+%3A)" alt="Typing SVG" /></a>
 
 
 <div align="left">  
