@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 
 <img width="100%" src="https://github.com/LaraGSilva/LaraGSilva/assets/66211552/c8733139-4a67-4562-8a76-a98578b0263c">
 
